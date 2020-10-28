@@ -1,7 +1,8 @@
 # NavigationLab
 
-> IT KMITL 06016323 MOBILE DEVICE PROGRAMMING WEEK IX
+> IT KMITL 06016323 MOBILE DEVICE PROGRAMMING
 
-study about react-native-navigation
+- [X] Lab Week 9
+- [X] study about react-native-navigation
 
 ![GitHub Logo](/assets/structure.png)
